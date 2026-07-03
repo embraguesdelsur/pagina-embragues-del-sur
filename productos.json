@@ -1,0 +1,380 @@
+[
+  {
+    "id": "EMB-CHEV-SAIL14",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Sail 1.4",
+    "anios_compatibles": [2012,2013],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "200mm - 18 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 105.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 34.5
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/sail.jpg",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-CHEV-SAIL14",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Sail 1.4",
+    "anios_compatibles": [2012, 2013],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "SECO",
+    "especificaciones": "200mm - 18 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 80.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 34.5
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/sail.jpg",
+    "imagen_embrague": "imagenes/embragues/caja-seco.JPG"
+  },
+  {
+    "id": "EMB-NIS-SENTRA16",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "sentra b13",
+    "anios_compatibles": [1990],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK",
+    "especificaciones": "190mm - 18 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 80.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 30.0
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-NIS-SENTRA16",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "sentra b13",
+    "anios_compatibles": [1990],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "190mm - 18 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 85.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 30.0
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-NIS-SENTRA16",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "sentra b13",
+    "anios_compatibles": [1990],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "EXEDY",
+    "especificaciones": "190mm - 18 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 70.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 30.0
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/nissan-sentra.jpg",
+    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+  },
+  {
+    "id": "EMB-CHEV-AVEO 1.4",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Activo",
+    "anios_compatibles": [2007],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 90.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/activo.png",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-CHEV-AVEO1.6",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Emotion",
+    "anios_compatibles": [2008],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 90.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/emotion.jpg",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-CHEV-AVEO",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Family",
+    "anios_compatibles": [2010],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 80.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 34.5
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/family.png",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-CHEV-AVEO",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Chevitaxi",
+    "anios_compatibles": [2012],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 80.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 34.5
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/chevytaxi.jpg",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-MIT-MONTERO 2.6",
+    "marca_vehiculo": "Mitsubishi",
+    "modelo_vehiculo": "Montero",
+    "anios_compatibles": [1988],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "225mm - 23 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 120.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/montero1988.jpg",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-MIT-MONTERO 2.6",
+    "marca_vehiculo": "Mitsubishi",
+    "modelo_vehiculo": "Montero",
+    "anios_compatibles": [1988],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "EXEDY",
+    "especificaciones": "225mm - 23 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 100.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/montero1988.jpg",
+    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+  },
+  {
+    "id": "EMB-NIS-TIDA 1.6",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "Tida",
+    "anios_compatibles": [2008],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "200mm - 26 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 180.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/tida2008.png",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-NIS-TIDA 1.6",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "Tida",
+    "anios_compatibles": [2008],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "EXEDY",
+    "especificaciones": "215mm - 26 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 145.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/tida2008.png",
+    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+  },
+  {
+    "id": "EMB-NIS-TIDA 1.6",
+    "marca_vehiculo": "Nissan",
+    "modelo_vehiculo": "Tida",
+    "anios_compatibles": [2008],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK",
+    "especificaciones": "200mm - 26 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 160.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/tida2008.png",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-CHEV-LUV 2.2",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Luv 2.2",
+    "anios_compatibles": [],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "EXEDY",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 105.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+  },
+  {
+    "id": "EMB-CHEV-LUV 2.2",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Luv 2.2",
+    "anios_compatibles": [],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "VALEO",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 115.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/CAJA-VALEO.JPG"
+  },
+  {
+    "id": "EMB-CHEV-LUV 2.3",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Luv 2.3",
+    "anios_compatibles": [],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "EXEDY",
+    "especificaciones": "215mm - 24 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 80.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-exedy.JPG"
+  },
+  {
+    "id": "EMB-JETOUR X70 1.5",
+    "marca_vehiculo": "Jetour",
+    "modelo_vehiculo": "x70",
+    "anios_compatibles": [
+      2020
+    ],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK (ORIGINAL)",
+    "especificaciones": "230mm - 20 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 180.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 46.0
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-DFSK-GLORY 560",
+    "marca_vehiculo": "DFSK",
+    "modelo_vehiculo": "Glory 560",
+    "anios_compatibles": [2021],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK (ORIGINAL)",
+    "especificaciones": "220mm - 20 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 130.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-G.W.- VOOLEX C-30",
+    "marca_vehiculo": "GREAT W.",
+    "modelo_vehiculo": "Voolex C-30",
+    "anios_compatibles": [],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK (ORIGINAL)",
+    "especificaciones": "215mm - 21 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 105.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-G.W.- M4",
+    "marca_vehiculo": "GREAT W.",
+    "modelo_vehiculo": "M-4",
+    "anios_compatibles": [],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK (ORIGINAL)",
+    "especificaciones": "215mm - 21 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 105.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  },
+  {
+    "id": "EMB-CHERRY-TIGGO 2",
+    "marca_vehiculo": "Chery",
+    "modelo_vehiculo": "Tiggo 2 1.5",
+    "anios_compatibles": [
+      2018
+    ],
+    "componente": "kit de embrague completo",
+    "marca_repuesto": "LUK (ORIGINAL)",
+    "especificaciones": "210mm - 20 estrias - incluye plato disco y ruliman",
+    "precio_nuevo": 125.0,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 40.25
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "",
+    "imagen_embrague": "imagenes/embragues/caja-luk.JPG"
+  }
+]

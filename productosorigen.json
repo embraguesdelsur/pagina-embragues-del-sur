@@ -1,0 +1,36 @@
+[
+  {
+    "id": "EMB-CHEV-SAIL14",
+    "marca_vehiculo": "Chevrolet",
+    "modelo_vehiculo": "Sail 1.4",
+    "anios_compatibles": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018],
+    "componente": "Kit de Embrague Completo",
+    "marca_repuesto": "Valeo",
+    "especificaciones": "190mm - 18 estrías. Incluye plato, disco y rulimán.",
+    "precio_nuevo": 85.00,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 15.00
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/sail.jpg",
+    "imagen_embrague": "imagenes/embragues/sail-kit.jpeg"
+  },
+  {
+    "id": "EMB-KIA-SOL14",
+    "marca_vehiculo": "Kia",
+    "modelo_vehiculo": "Soluto 1.4",
+    "anios_compatibles": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+    "componente": "Kit de Embrague Completo",
+    "marca_repuesto": "PHC Valeo",
+    "especificaciones": " baodh sf sf df dfg dg tg dgh tg tr gft gtgt gtgtgtgt gt g Incluye plato, disco y rulimán con calibración de fábrica.",
+    "precio_nuevo": 95.00,
+    "servicio_asociado": {
+      "ofrece_rectificacion_volante": true,
+      "precio_combo_rectificacion": 15.00
+    },
+    "estado_stock": "Disponible",
+    "imagen_vehiculo": "imagenes/autos/sail.jpg",
+    "imagen_embrague": "imagenes/embragues/sail-kit.jpeg"
+  }
+]
