@@ -251,7 +251,7 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/luv22.png",
     "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
@@ -268,7 +268,7 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/luv22.png",
     "imagen_embrague": "imagenes/embragues/valeo.jpg"
   },
   {
@@ -285,16 +285,14 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/luv22.png",
     "imagen_embrague": "imagenes/embragues/exedy.jpg"
   },
   {
     "id": "EMB-JETOUR X70 1.5",
     "marca_vehiculo": "Jetour",
     "modelo_vehiculo": "x70",
-    "anios_compatibles": [
-      2020
-    ],
+    "anios_compatibles": [2020],
     "componente": "kit de embrague completo",
     "marca_repuesto": "LUK (ORIGINAL)",
     "especificaciones": "230mm - 20 estrias - incluye plato disco y ruliman",
@@ -304,7 +302,7 @@
       "precio_combo_rectificacion": 46.0
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/x70.jpg",
     "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
@@ -321,7 +319,7 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/glory560.jpg",
     "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
@@ -338,7 +336,7 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/voleexc30.jpg",
     "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
@@ -355,16 +353,14 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/m4.jpg",
     "imagen_embrague": "imagenes/embragues/luk.jpg"
   },
   {
     "id": "EMB-CHERRY-TIGGO 2",
     "marca_vehiculo": "Chery",
     "modelo_vehiculo": "Tiggo 2 1.5",
-    "anios_compatibles": [
-      2018
-    ],
+    "anios_compatibles": [2018],
     "componente": "kit de embrague completo",
     "marca_repuesto": "LUK (ORIGINAL)",
     "especificaciones": "210mm - 20 estrias - incluye plato disco y ruliman",
@@ -374,7 +370,7 @@
       "precio_combo_rectificacion": 40.25
     },
     "estado_stock": "Disponible",
-    "imagen_vehiculo": "",
+    "imagen_vehiculo": "imagenes/autos/tiggo2.jpg",
     "imagen_embrague": "imagenes/embragues/luk.jpg"
   }
 ]
